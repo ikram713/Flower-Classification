@@ -7,7 +7,7 @@ This is a simple deep learning project to classify flower images using TensorFlo
 - `Flower_recog_Model.ipynb` – Main Jupyter notebook containing the full training and evaluation workflow.
 - `images/` – Folder containing training flower images.
 - `testImages/` – Folder for testing the trained model.
-- `my_model.keras` – Saved trained models (not pushed to GitHub due to size).
+
 
 ## 🧠 Model Overview
 
